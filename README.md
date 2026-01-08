@@ -188,28 +188,4 @@ cp -r ~/.claude/commands.backup.20260108_1234/* ~/.claude/commands/
 
 ## ライセンス
 
-MIT License
-
-## 貢献
-
-プルリクエストを歓迎します！
-
-1. このリポジトリをフォーク
-2. 機能ブランチを作成 (`git checkout -b feature/AmazingFeature`)
-3. 変更をコミット (`git commit -m 'Add some AmazingFeature'`)
-4. ブランチにプッシュ (`git push origin feature/AmazingFeature`)
-5. プルリクエストを作成
-
-## サポート
-
-問題や質問がある場合：
-- [Issues](https://github.com/yourusername/claude-code-setup/issues)で報告
-- 設定例は[Wiki](https://github.com/yourusername/claude-code-setup/wiki)を参照
-
-## 更新履歴
-
-### v1.0.0 (2026-01-08)
-- 初回リリース
-- 基本的なセットアップ機能
-- 8つのカスタムコマンド対応
-- ntfy.sh通知統合
+WTFPL
